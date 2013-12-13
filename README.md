@@ -1,12 +1,13 @@
 # zepto-rails
+Zepto for the Rails asset pipeline. This gem provides Zepto 1.1.2. Based upon the wonderful gem: [zepto-rails](https://github.com/packetman/zepto-rails), which is not maintained anymore.
 
-Zepto for the Rails asset pipeline. This gem provides Zepto 1.1.2
+All credits for [https://github.com/packetman](packetman) for creating this gem in the first place.
 
 ## Installation
-Add zepto_rails to the Gemfile.
+Add zepto-for-rails to the Gemfile.
 
 ```
-gem 'zepto_rails'
+gem 'zepto-for-rails'
 ```
 
 And run `bundle install`. Then add this lines to your `app/assets/javascripts/application.js`:
