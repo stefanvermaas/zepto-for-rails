@@ -1,5 +1,5 @@
 # zepto-for-rails [![Gem Version](https://badge.fury.io/rb/zepto-for-rails.png)](http://badge.fury.io/rb/zepto-for-rails)
-Zepto for the Rails asset pipeline. This gem provides Zepto 1.1.5
+Zepto for the Rails asset pipeline. This gem provides Zepto 1.1.6
 
 ## Installation
 Add zepto-for-rails to the Gemfile.
