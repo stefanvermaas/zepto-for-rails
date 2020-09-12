@@ -14,7 +14,7 @@ Gem::Specification.new do |s|
   s.description = 'Provides a the zepto.js for the rails asset pipeline'
   s.licenses    = ['MIT']
 
-  s.add_runtime_dependency 'rails', '> 3.2'
+  s.add_runtime_dependency 'rails', '~> 3.2', '> 3.2'
 
   s.files        = `git ls-files`.split("\n")
   s.executables  = `git ls-files -- bin/*`.split("\n").map { |f| File.basename(f) }
