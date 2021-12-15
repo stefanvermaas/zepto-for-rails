@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-require 'zepto_for_rails/version'
+require_relative 'lib/zepto_for_rails/version'
 
 # Describe your gem and declare its dependencies:
 Gem::Specification.new do |s|
