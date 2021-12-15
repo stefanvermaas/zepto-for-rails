@@ -19,6 +19,6 @@ git tag v$VERSION
 git push --tags
 
 # Build the new gem and publish it to Rubygems.
-gem build zepto_for_rails.gemspec
-gem push "zepto_for_rails-$VERSION.gem" --host https://rubygems.org
-rm "zepto_for_rails-$VERSION.gem"
+gem build zepto-for-rails.gemspec
+gem push "zepto-for-rails-$VERSION.gem" --host https://rubygems.org
+rm "zepto-for-rails-$VERSION.gem"
