@@ -1,1 +1,14 @@
+/.bundle/
+/.yardoc
+/_yardoc/
+/coverage/
+/doc/
+/pkg/
+/spec/reports/
+/tmp/
+
+# "Do not check your Gemfile.lock into version control, since it enforces precision
+# that does not exist in the gem command, which is used to install gems in practice."
+#  - https://yehudakatz.com/2010/12/16/clarifying-the-roles-of-the-gemspec-and-gemfile/
+Gemfile.lock
 *.gem
